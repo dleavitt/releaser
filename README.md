@@ -4,7 +4,7 @@ Simple CLI util for generating changelogs with JIRA tickets.
 
 ## Installation
 
-    $ gem install releaser
+    $ gem install jira_release
 
 ## Usage
 

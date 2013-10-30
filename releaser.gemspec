@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'releaser/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "releaser"
+  spec.name          = "jira_release"
   spec.version       = Releaser::VERSION
   spec.authors       = ["Daniel Leavitt"]
   spec.email         = ["daniel.leavitt@gmail.com"]
